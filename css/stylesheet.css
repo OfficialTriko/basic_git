@@ -1,0 +1,19 @@
+body{
+	background-color:#5B5B5B;
+}
+
+body{
+font-family: 'Annie Use Your Telescope', cursive;
+font-size:50px;
+}
+
+#vid{
+	float: left;
+}
+
+#header{
+	background-color: #5B5B5B;
+	text-align: center;
+	color: #009F8F;
+
+}
